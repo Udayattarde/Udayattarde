@@ -4,13 +4,21 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&background=FF602500&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+a+Software+Developer+From+India" alt="Typing SVG" />
   </a>
-</div>
+
 <br>
+
 <div align="center" style="margin-top: 100px;">
   🌱 I’m currently learning Azure, Docker, MERN
   <br><br>
   📫 How to reach me: udayattarde@gmail.com
+  </div>
+
+<div align="center" style="margin-top: 100px;">
+<h3 >Connect with me</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/udayattarde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udayattarde/" height="30" width="40" /></a>
+
 </div>
+
 
 </br>
 <hr>
@@ -29,7 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayattarde&" alt="udayattarde" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/udayattarde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udayattarde/" height="30" width="40" /></a>
-</p>
+
