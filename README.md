@@ -1,5 +1,5 @@
-<h3 align="center">I'm Uday Attarde
-<h3 align="center">I'm a Passionate Software Developer</h3>
+<h3 >Hi there 👋
+<h3>I'm a Passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Azure,Docker,MERN**
 
